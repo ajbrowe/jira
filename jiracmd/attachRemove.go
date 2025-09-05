@@ -5,8 +5,8 @@ import (
 
 	"github.com/coryb/figtree"
 	"github.com/coryb/oreo"
-	jira "github.com/go-jira/jira"
-	"github.com/go-jira/jira/jiracli"
+	jira "github.com/ajbrowe/jira"
+	"github.com/ajbrowe/jira/jiracli"
 	kingpin "gopkg.in/alecthomas/kingpin.v2"
 )
 

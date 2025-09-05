@@ -6,8 +6,8 @@ import (
 
 	"github.com/coryb/figtree"
 	"github.com/coryb/oreo"
-	"github.com/go-jira/jira"
-	"github.com/go-jira/jira/jiracli"
+	"github.com/ajbrowe/jira"
+	"github.com/ajbrowe/jira/jiracli"
 	"github.com/mgutz/ansi"
 	"golang.org/x/crypto/ssh/terminal"
 	survey "gopkg.in/AlecAivazis/survey.v1"
